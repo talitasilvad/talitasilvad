@@ -52,6 +52,14 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>        
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -65,14 +73,6 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Google Colab" 
-    title="Google Colab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
 />
 
 <br/>
