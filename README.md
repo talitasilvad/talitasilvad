@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Talita Silva
 
-**`Estudante Ciência da Computação | Dados e Desenvolvimento Web`**
+**`Estudante Ciência da Computação | Desenvolvedora Full Stack`**
 
-Me chamo Talita Silva, tenho 19 anos, sou de Fortaleza - CE e atualmente estou cursando Ciência da Computação na Estácio. Quero evoluir profissionalmente na área de TI com foco em dados, programação e análise de informações, estou em constante aprendizado buscando aplicar na prática os conhecimentos adquiridos na faculdade e em cursos complementares.
+Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciência da Computação na Estácio. Quero evoluir profissionalmente na área de TI com foco no desenvolvimento Full Stack, estou em constante aprendizado buscando aplicar na prática os conhecimentos adquiridos na faculdade e em cursos complementares.
 
 ---
 
