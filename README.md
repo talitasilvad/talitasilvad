@@ -32,7 +32,6 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -41,7 +40,6 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
