@@ -7,6 +7,14 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>  
 
 <img 
     align="left" 
@@ -48,14 +56,7 @@ Me chamo Talita Silva, sou de Fortaleza - CE e atualmente estou cursando Ciênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>        
+      
 <img 
     align="left" 
     alt="Python" 
